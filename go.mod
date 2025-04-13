@@ -21,4 +21,6 @@ require (
 	golang.org/x/net v0.9.0 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/text v0.9.0 // indirect
+        github.com/amarnathcjd/gogram v0.0.0-20230901110620-99fae8bfb188
+
 )
